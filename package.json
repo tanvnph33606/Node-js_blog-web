@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_js"
+  ],
+  "author": "tanvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvnph33606/Node-js_blog/issues"
+  },
+  "homepage": "https://github.com/tanvnph33606/Node-js_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
